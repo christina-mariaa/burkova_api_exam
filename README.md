@@ -27,7 +27,7 @@ drf-yasg
 ### 1. Клонирование репозитория
 
 ```
-git clone https://github.com/your-username/task-api.git
+git clone https://github.com/christina-mariaa/burkova_api_exam
 cd task-api
 ```
 
